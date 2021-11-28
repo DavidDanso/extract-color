@@ -7,7 +7,7 @@
 ### A Program that extracts '10' random colours from an image. 
 
 `Imports`
-### turtle, cologram, tkinter, random
+#### - turtle, cologram, tkinter, random
 
 ## Project Images
 
