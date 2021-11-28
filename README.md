@@ -12,7 +12,7 @@ to set a new image for the program to extract the colors for you!! Happy Coding 
 `Imports`
 ##### - turtle, cologram, tkinter, random
 
-## Project Images
+## Project Image
 
 ### `Main Screen`
 <img src="https://github.com/DavidDanso/extract-color/blob/master/images/UI.png" width=600 />
